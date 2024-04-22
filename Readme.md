@@ -1,5 +1,8 @@
 # Text -> Speech -> Youtube Video
 
+I did this because I wanted to listen to an audiobook that was not available anywhere.
+This is the final result of an audiobook generated with this script (in portuguese): https://youtu.be/s06P_P1Cyx0
+
 This Script does the following:
 1. reads text files from a folder
 2. sends the content from each file from this folder to Google's Text-to-Speech API
